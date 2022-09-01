@@ -1,0 +1,11 @@
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\ekolayzer\ekolayzer\bin\Debug\ekolayzer.exe.config
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\ekolayzer\ekolayzer\bin\Debug\ekolayzer.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\ekolayzer\ekolayzer\bin\Debug\ekolayzer.pdb
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\ekolayzer\ekolayzer\obj\Debug\ekolayzer.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\ekolayzer\ekolayzer\obj\Debug\ekolayzer.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\ekolayzer\ekolayzer\obj\Debug\ekolayzer.frm_eko.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\ekolayzer\ekolayzer\obj\Debug\ekolayzer.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\ekolayzer\ekolayzer\obj\Debug\ekolayzer.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\ekolayzer\ekolayzer\obj\Debug\ekolayzer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\ekolayzer\ekolayzer\obj\Debug\ekolayzer.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\ekolayzer\ekolayzer\obj\Debug\ekolayzer.pdb
